@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0383/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀藥王藥上二菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1161.xml
+    old_id: T20n1161
+hash: sha256:2c51e9451262dbf9cf394d3ef556397c7af813feae6551b980d49b7d106245a8

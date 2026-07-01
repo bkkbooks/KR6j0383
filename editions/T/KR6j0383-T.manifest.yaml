@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0383/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0383/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀藥王藥上二菩薩經
+  identifiers:
+    krp: KR6j0383
+    cbeta: T20n1161
+    cbeta_old_id: T20n1161
+    authorityid: CA0001241
+    json_key: T1161
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1161.xml
+    old_id: T20n1161
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0383_000-T.yaml, hash: 'sha256:2c51e9451262dbf9cf394d3ef556397c7af813feae6551b980d49b7d106245a8'}
+  - {seq: 1, filename: KR6j0383_001-T.yaml, hash: 'sha256:48d74a3db7b19293f5ebe40471b0a03ed1eaed8b077fab615b1d5df34ca2ce77'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0383_000-T.markers.yaml, hash: 'sha256:c7de30ae90ee1c46221156254949f0ea509f39004a3c218dd271cb08a826973a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0383_001-T.markers.yaml, hash: 'sha256:84e6d24f776629cef09853ea3add65fb84a1b39e8e899a94c6c962f0d5710ce3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0383_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8446
+  label: 佛說觀藥王藥上二菩薩經
+  type: juan
+  level: 1
+hash: sha256:fe7e60d883ea17cafba6916f817cd853b89d66eac9ec98c209819979a53ba137
