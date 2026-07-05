@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0383_000.yaml, hash: 'sha256:2c51e9451262dbf9cf394d3ef556397c7af813feae6551b980d49b7d106245a8'}
-  - {seq: 1, filename: KR6j0383_001.yaml, hash: 'sha256:f6a514b82a5daeaecf7271dc4f74a3e07d701a6efa25d0600893b149beaacc2b'}
+  - {seq: 1, filename: KR6j0383_001.yaml, hash: 'sha256:48d74a3db7b19293f5ebe40471b0a03ed1eaed8b077fab615b1d5df34ca2ce77'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0383_001.markers.yaml, hash: 'sha256:77e86362ad580acd2926d9974bffee22f2303da86a785b7db64a98e82f035b6e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0383_000.markers.yaml, hash: 'sha256:d03babbc01bce23d1de0d7eaaabdcb1935d74013afe1ae533529b03754b51017'}
+  - {seq: 1, role: markers, filename: assets/KR6j0383_001.markers.yaml, hash: 'sha256:bce1244d60cf99d32d441a7860fba6e02eff1ffd34249d024edfee74689d1b89'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說觀藥王藥上二菩薩經
   type: juan
   level: 1
-hash: sha256:bf0e5f6cad53c5d96c9e1927c684f3abe704e1fab3211cfb956e556d41a0700b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a76d10dbe2e856d4a394750003d6bc29864546bdbb1429d0d896b256301ed383
