@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0383/v1
 canonical_location: https://kanripo.org/bkk/KR6j0383/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說觀藥王藥上二菩薩經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0383_000.yaml, hash: 'sha256:2c51e9451262dbf9cf394d3ef556397c7af813feae6551b980d49b7d106245a8'}
-  - {seq: 1, filename: KR6j0383_001.yaml, hash: 'sha256:48d74a3db7b19293f5ebe40471b0a03ed1eaed8b077fab615b1d5df34ca2ce77'}
+  - {seq: 1, filename: KR6j0383_001.yaml, hash: 'sha256:3066341359db4d50e721981c7cd0d7b8e79620820b4b862130171fabcab1b394'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0383_000.markers.yaml, hash: 'sha256:d03babbc01bce23d1de0d7eaaabdcb1935d74013afe1ae533529b03754b51017'}
-  - {seq: 1, role: markers, filename: assets/KR6j0383_001.markers.yaml, hash: 'sha256:bce1244d60cf99d32d441a7860fba6e02eff1ffd34249d024edfee74689d1b89'}
+  - {seq: 1, role: markers, filename: assets/KR6j0383_001.markers.yaml, hash: 'sha256:8f333a02cc43e74395cd9ca416cd99f1376ee18b4f7db503a8f2e06280d8453b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說觀藥王藥上二菩薩經
   type: juan
   level: 1
-hash: sha256:a76d10dbe2e856d4a394750003d6bc29864546bdbb1429d0d896b256301ed383
+hash: sha256:e72d6949a611807b88c0d9aadc8388f9602aea0602c497e5cfbdf71f1c240a5f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
